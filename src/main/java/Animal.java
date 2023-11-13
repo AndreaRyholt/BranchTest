@@ -1,3 +1,6 @@
 public abstract class Animal {
- private String animal;
+ private String name;
+
+ public abstract void makeSound();
+
 }
