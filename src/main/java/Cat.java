@@ -10,5 +10,10 @@ public class Cat extends Animal{
         return true;
     }
 
+    @Override
+    public boolean showMood(String showMood) {
+        return true;
+    }
+
 
 }
